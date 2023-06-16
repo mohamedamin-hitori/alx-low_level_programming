@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+ * main - prints all single digit numbers of bas
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
