@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-Comment
+*Comment
 */
 
 int main(void)
