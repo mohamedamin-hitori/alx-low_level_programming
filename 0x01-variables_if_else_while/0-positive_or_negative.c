@@ -3,9 +3,10 @@
 #include <stdio.h>
 
 /**
-*main - This program will assign a random number to the variable n each time it is executed. 
-*Return: 0
-*/
+ * main - assigns a random number to int n everytime
+ * it executes, and prints it
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
